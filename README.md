@@ -1,11 +1,11 @@
-<h1 align="center">Hola 👋, soy Jayr</h1><h3 align="center">Un apasionado desarrollador frontend de México</h3>- 🔭 Actualmente estoy trabajando en **JuegosFes**
+<h1 align="center">Hola 👋, soy Jayr</h1><h3 align="center">Un apasionado desarrollador frontend de México</h3>- 🔭 Actualmente estoy trabajando en **JuegoFes**
 
 <h3 align="left">Conéctate conmigo:</h3>
 
 
 <
 p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jayradrianrodriguezhernandez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jayradrianrodriguezhernandez/" height="30" width="40" /></a></p><h3 align="left">Languages and Tools:</h3><p align="left">
+<a href="https://linkedin.com/in/jayr Adrián Rodríguez Hernández" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jayr Adrian Rodriguez Hernandez" height="30" width="40" /></a></p><h3 align="left">Languages and Tools:</h3><p align="left">
 
 
 
