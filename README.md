@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Jayr</h1><h3 align="center">Un apasionado desarrollador frontend de México</h3>- 🔭 Actualmente estoy trabajando en **JuegoFes**
+<h1 align="center">Hola 👋, soy Jayr</h1><h3 align="center">Un apasionado desarrollador frontend de México</h3>
 
 <h3 align="left">Conéctate conmigo:</h3>
 
